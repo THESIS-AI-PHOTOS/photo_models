@@ -1,0 +1,7 @@
+Background
+Hair
+Sunglasses
+Upper-clothes
+Face
+Left-arm
+Right-arm
