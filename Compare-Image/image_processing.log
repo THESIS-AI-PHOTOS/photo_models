@@ -1,0 +1,10 @@
+2023-11-16 17:44:33,139 - INFO - BBD Distance: 132.79209274673008
+2023-11-16 17:44:33,154 - INFO - HOG Calculation Successful
+2023-11-16 17:44:33,159 - INFO - SSI Value: 0.4249461184380781
+2023-11-16 17:44:33,159 - INFO - Color Histogram Calculation Successful
+2023-11-16 17:44:33,163 - INFO - SSIM Value: 0.4249461184380781
+2023-11-16 17:47:01,676 - INFO - BBD Distance: 0.0
+2023-11-16 17:47:01,710 - INFO - HOG Calculation Successful
+2023-11-16 17:47:01,718 - INFO - SSI Value: 1.0
+2023-11-16 17:47:01,719 - INFO - Color Histogram Calculation Successful
+2023-11-16 17:47:01,728 - INFO - SSIM Value: 1.0
